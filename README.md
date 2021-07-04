@@ -2,7 +2,7 @@
 
 This small redirect page can be implemented to provide a custom domain for Windows Virtual Desktop.
 
-It simply displays nice webpage and finally redirect to https://rdweb.wvd.microsoft.com/webclient/index.html
+It simply displays nice webpage and finally redirect to https://rdweb.wvd.microsoft.com/arm/webclient
 
 It can be implemented as a static website in Static Web App, Step by Step:
   1. Clone repository
